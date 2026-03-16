@@ -8,7 +8,7 @@
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root { 
   /* Brand palette (Grande Resin Interior Design) */
-  --grd-dark-teal: #ddbbb9; /* Primary brand dark teal */
+  --grd-dark-teal: #2e2e2e; /* Primary brand dark teal */
   --grd-teal: #00CFC4; /* Bright teal / highlight */
   --grd-sea-green: #2FB66A; /* Supporting green */
   --grd-lime: #95E04A; /* Accent lime */
@@ -26,7 +26,7 @@
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
 :root {
   --nav-color: rgba(255, 255, 255, 0.55);  /* The default color of the main navmenu links */
-  --nav-hover-color: yellow; /* Applied to main navmenu links when they are hovered over or active */
+  --nav-hover-color: var(--grd-gold); /* Applied to main navmenu links when they are hovered over or active */
   --nav-mobile-background-color: #ffffff; /* Used as the background color for mobile navigation menu */
   --nav-dropdown-background-color: #ffffff; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
   --nav-dropdown-color: #212529; /* Used for navigation links of the dropdown items in the navigation menu. */
