@@ -8,7 +8,7 @@
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root { 
   /* Brand palette (Grande Resin Interior Design) */
-  --grd-dark-teal: #e10505; /* Primary brand dark teal */
+  --grd-dark-teal: #56e005; /* Primary brand dark teal */
   --grd-teal: #00CFC4; /* Bright teal / highlight */
   --grd-sea-green: #2FB66A; /* Supporting green */
   --grd-lime: #95E04A; /* Accent lime */
